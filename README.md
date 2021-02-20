@@ -1,19 +1,31 @@
 # Computer Graphics - 2021 (DLUT)
 ## 0. Introduction
+授课32学时（上机24学时）.内容涵盖光栅化rasterization和光线追踪等渲染算法，3D几何建模的数学概念和算法，计算机动画算法，应用为主，理论为辅，提倡大家多动手实验，积极解决实际问题。通过这门课程的学习，你将会学习到计算机视觉和计算机图形学的基本知识，学习和掌握一定的编程技能。
 
-Digital geometry processing (DGP), a subfield of computer graphics will be introduced in this course. Recent innovation in 3D acquisition (3D scanning, realtime depth sensor) and 3D production (3D printing) technologies, has made DGP become one of the vital technologies in applications ranging from CAD, interactive games, machine perception, robotics to other related fields. 
+- 目标
 
-<!-- In this course, students should have a background in Linear Algebra and Computer Programming. -->
-In this course, we study the algorithms and mathematics for representing, analyzing and manipulating geometric data. "These essential tools enable: geometric modeling for computer aided design, life-like animations for computer graphics, reliable physical simulations, and robust scene representations for computer vision." We wish students will implement a recent paper in the style of a [libigl tutorial](https://libigl.github.io/tutorial/), finally.
+    By the end of the course, the student must be able to:
+  - Explain and apply the fundamental mathematical concepts of computer-based image and geometry synthesis (synthesis data for training deep learning; basis of VR and simulation)
+  - Implement a basic rendering pipeline based on rasterization and raytracing
+  - Design and implement basic computer animation algorithms
+  - Integrate individual components into a complete graphics application
+  - Coordinate a team during a software project?
 
+- 进阶
+    
+    You may want to browse interesting research papers in the top avenues in graphics (Siggraph, Siggraph Asia, ACM TOG, Eurographics) and computer vision (CVPR, ICCV, ECCV), as well as some more specialized but equally excellent conferences (SGP, SCA, 3DV).
+
+- Prerequisites: linear algebra, C/C++ programming, and Data Structures
 
 - Course Instructor: [Junjie Cao](http://jjcao.github.io/); Email: jjcao at dlut.edu.cn; 
-- Lectures: Tuesday & Thursdays at 18:00 - 18:45, 18:55 - 19:40. 研教楼312.
-- Textbook: <img src="https://images.tandf.co.uk/common/jackets/amazon/978156881/9781568814261.jpg"  width="20%" alt="M. Botsch, L. Kobbelt, M. Pauly, P. Alliez, and B. Lévy. Polygon mesh processing. CRC press, 2010." />
-    [pdf](ftp://nozdr.ru/biblio/kolxo3/Cs/CsCg/Botsch%20M.,%20et%20al.%20Polygon%20mesh%20processing%20(AK%20Peters,%202010)(ISBN%201568814267)(C)(O)(243s)_CsCg_.pdf), with ppt & source code @ http://www.pmp-book.org.
+- Lectures: Tuesday (13:30 - 15:05) & Friday (08:00 - 09:35) at 综合教学2号楼 A301. 上机时间待定！！！
+- Textbooks: 
+  - [FCG4]: [Fundamentals of Computer Graphics, 4th Edition, 2016.](http://www.cs.cornell.edu/courses/cs4620/2014fa/index.shtml), has slides. 
+  - [Introduction to Computer Graphics v1.2 2018](http://math.hws.edu/graphicsbook/) by David J. Eck, Free online, with live, interactive demos with webgl.
+  - [Modern OpenGL Guide](https://open.gl/), excellent! elegent!!
 
 ## 1. Course Notes
-- [00_introduction](http://pan-yz.chaoxing.com/share/info/e08e55692d3641d4)
+- [00_introduction](http://??)
 
 ## 2. Assignments
 - [Rules & Setup](assignments/)
@@ -31,28 +43,24 @@ In this course, we study the algorithms and mathematics for representing, analyz
 - [CloudCompare](https://www.danielgm.net/cc/): 3D point cloud and mesh processing software
 
 ### References:
-- Geometric Modeling - CSCI-GA.3033-018, Daniele Panozzo
+- Graduate Computer Graphics, CSCI-GA 2270-001 Fall 2020, Daniele Panozzo
+    <li>[course]: <a href="http://www.cs.cornell.edu/courses/cs4620/2018fa/">
+        CS4620 (5620) Introduction to Computer Graphics, 2018</a> @ Cornell by Steve Marschner</li>
+    <li>[course]: <a href="
+        http://www.hao-li.com/Hao_Li/Hao_Li_-_teaching_%5BCSCI_420__Computer_Graphics_FS_2018%5D.html">
+        CSCI 420: Computer Graphics FS 2018</a>, by Hao Li, cool assignments</li>
+    <li>[course]: CMU 15-462/662 COMPUTER GRAPHICS (Fall 2018) by Keenan Crane</li>
+    <li>...</li>
+        
+    <li>[course, advance]: CS5625 Interactive Computer Graphics, 2019 @ Cornell by Steve Marschner.</li>
+    <li>[course]: CS 148 Introduction to Computer Graphics and Imaging (Fall 2018) @ stanford</li>
+    <li>[course, Animation]: 15-464 / 15-664: Technical Animation (Spring 2019) @ CMU, by Nacy Pollard</li>
+    <li>[course]: CSE 5542: Real-Time Rendering @ ohio 2013</li>
 
+## Resources
+- [tutorial, GL]: <a href="http://learnopengl.com">Learn OpenGL</a> (fundamental OpenGL tutorials and notes, practical techniques); <a href="https://learnopengl-cn.github.io">中文网站。</a>使用了GLFW，而不是GLUT
+- [tutorial, GL]: <a href="http://ogldev.atspace.co.uk/index.html">Modern OpenGL Tutorials</a>, good explanation and code; <a href="https://blog.csdn.net/column/details/13062.html">中文网站。</a> 使用了FreeGLUT和GLEW，但是前面的code中，FreeGLUT的函数和glut的一样，可以照用。
+- [tutorial, GL]: <a href="http://www.songho.ca/opengl/"> OpenGL notes from Song Ho</a>, advance, awesome explanation and code
+- [povray](http://www.povray.org/): Open source project for ray tracing
+- [G3D](http://g3d.cs.williams.edu/g3d/www/index.html): a modern 3d engine
 
-<!-- <li>[Book]: <img src="https://images-na.ssl-images-amazon.com/images/I/41ahRBWW%2BjL._SX335_BO1,204,203,200_.jpg"  width="20%" alt="A Sampler of Useful Computational Tools for Applied Geometry, Computer Graphics, and Image Processing. Daniel Cohen-Or, Chen Greif, Tao Ju, Niloy J. Mitra, Ariel Shamir, Olga Sorkine-Hornung, Hao Zhang, 2015." />
-    </li>
-<li>[Course]: Geometric Computing with Python, SIGGRAPH course 2018, Daniele Panozzo.</li>
-<li>[Course]: CSCI 621: Digital Geometry Processing SS 2019, Hao Li. PMP, scanning, Dynamic Geometry processing, facial performance capture, deep learning for geometry. PMP execises.</li>
-<li>[Course]: CS749: Digital Geometry Processing, Spring 2017, Siddhartha Chaudhuri. Points, diatances, features, Laplacian, segmentation. Many reading materials, better assignments. 
-<li>[Course]: CENG789 - Digital Geometry Processing, Yusuf Sahillioğlu. PMP, Delaunay, Voronoi, Descriptors on mesh, 3D printing. Some team projects topics.</li>
-<li>[Course]: 6.838: Shape Analysis (Spring 2017) @ MIT. Numerical Tools, geodesic, inverse distance, Laplacian, Vector field, Optimal transport, correspondence. with youtube. 4 homework by ipython notebook.</li>
-<li>[Course]: CS 15-458/858: Discrete Differential Geometry, @CMU by  Keenan Crane</li>
-<li>[Course]: Digital Geometry Processing 2019, Xiao-Ming Fu. Barycentric coordinate, Mapping, PolyCube, Atlas, Spere parameterization, Morping. PMP exscises topics with assigned new papers.</li>
-<li>...</li>
-<li>[Course]: ENGN 2501 Digital Geometry Processing, Gabriel Taubin, 2019</li>
-
-<li>[Course]: 524 Computer Graphics: Modeling - Alla Sheffer</li>
-<li>[Course]: CS468 - Data-Driven Shape Analysis - Vladimir (Vova) Kim, & Qixing (Peter) Huan</li>
-<li>[Course]: Advanced Topics in Computer Graphics: Mesh Processing (600.657) - Michael Misha Kazhdan</li>
-<li>[Course]: SIGGRAPH AISA 2008 course: Mesh Parameterization: Theory and Practice</li>
-<li>[Course]: SIGGRAPH Asia 2009 course: Spectral Mesh Processing</li>
-<li>[Course]: SIGGRAPH 2014 course: Structure-Aware Shape Processing</li>
-<li>[Course]: Eurographics 2014 course: State of the Art in Surface Reconstruction from Point Clouds</li>
-<li>[Course]: SGP 2015 course: Dynamic 2D/3D Registration</li>
-<li>[Course]: Graduate School of SGP 2017. lecture videos</li>
- -->
