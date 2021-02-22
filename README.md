@@ -35,7 +35,10 @@
 - [Assignment 4: ](), deadline: TBD
 - [Assignment 5: ](), deadline: TBD
 
-## 3. Resources
+## 3. Reading 
+- [什么是计算机图形学？](http://staff.ustc.edu.cn/~lgliu/Resources/CG/What_is_CG.htm)
+
+## 4. Resources
 ### Suggestions [->](https://github.com/jjcao-school/common/tree/main/for_students)
 ### Softwares [->](softwares/) 
 - Deep Exploration (or its next version: SAP Visual Enterprise Author) for browsing, converting & simplifing meshes
@@ -57,7 +60,7 @@
     <li>[course, Animation]: 15-464 / 15-664: Technical Animation (Spring 2019) @ CMU, by Nacy Pollard</li>
     <li>[course]: CSE 5542: Real-Time Rendering @ ohio 2013</li>
 
-## Resources
+### Others
 - [tutorial, GL]: <a href="http://learnopengl.com">Learn OpenGL</a> (fundamental OpenGL tutorials and notes, practical techniques); <a href="https://learnopengl-cn.github.io">中文网站。</a>使用了GLFW，而不是GLUT
 - [tutorial, GL]: <a href="http://ogldev.atspace.co.uk/index.html">Modern OpenGL Tutorials</a>, good explanation and code; <a href="https://blog.csdn.net/column/details/13062.html">中文网站。</a> 使用了FreeGLUT和GLEW，但是前面的code中，FreeGLUT的函数和glut的一样，可以照用。
 - [tutorial, GL]: <a href="http://www.songho.ca/opengl/"> OpenGL notes from Song Ho</a>, advance, awesome explanation and code
