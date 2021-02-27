@@ -46,19 +46,14 @@
 - [CloudCompare](https://www.danielgm.net/cc/): 3D point cloud and mesh processing software
 
 ### References:
-- Graduate Computer Graphics, CSCI-GA 2270-001 Fall 2020, Daniele Panozzo
-    <li>[course]: <a href="http://www.cs.cornell.edu/courses/cs4620/2018fa/">
-        CS4620 (5620) Introduction to Computer Graphics, 2018</a> @ Cornell by Steve Marschner</li>
-    <li>[course]: <a href="
-        http://www.hao-li.com/Hao_Li/Hao_Li_-_teaching_%5BCSCI_420__Computer_Graphics_FS_2018%5D.html">
-        CSCI 420: Computer Graphics FS 2018</a>, by Hao Li, cool assignments</li>
-    <li>[course]: CMU 15-462/662 COMPUTER GRAPHICS (Fall 2018) by Keenan Crane</li>
-    <li>...</li>
-        
-    <li>[course, advance]: CS5625 Interactive Computer Graphics, 2019 @ Cornell by Steve Marschner.</li>
-    <li>[course]: CS 148 Introduction to Computer Graphics and Imaging (Fall 2018) @ stanford</li>
-    <li>[course, Animation]: 15-464 / 15-664: Technical Animation (Spring 2019) @ CMU, by Nacy Pollard</li>
-    <li>[course]: CSE 5542: Real-Time Rendering @ ohio 2013</li>
+- [Graduate Computer Graphics, CSCI-GA 2270-001 Fall 2020, Daniele Panozzo]()
+- [CS 148 Introduction to Computer Graphics and Imaging @ Stanford by Ron Fedkiw](http://web.stanford.edu/class/cs148)
+- ... 
+- [CS180 / CS280: Introduction to Computer Graphics @ UCSBb by Linqi yan](https://sites.cs.ucsb.edu/~lingqi/teaching/cs180.html)
+- [Introduction to Computer Graphics @ Cornell by Steve Marschner](http://www.cs.cornell.edu/courses/cs4620/2018fa/): good homework
+- [COMPUTER GRAPHICS @ CMU by Keenan Crane, Nacy Pollard]()
+- [CS 1230 Introduction to Computer Graphics @ Brown]()
+
 
 ### Others
 - [tutorial, GL]: <a href="http://learnopengl.com">Learn OpenGL</a> (fundamental OpenGL tutorials and notes, practical techniques); <a href="https://learnopengl-cn.github.io">中文网站。</a>使用了GLFW，而不是GLUT
