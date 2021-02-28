@@ -23,7 +23,10 @@
   <!-- - [Modern OpenGL Guide](https://open.gl/), excellent! elegent!! -->
 
 ## 1. Course Notes
-- [00_introduction](http://pan-yz.chaoxing.com/share/info/dc5968d8ed5cc29f)
+- [00_01_introduction](http://pan-yz.chaoxing.com/share/info/dc5968d8ed5cc29f)
+- [00_02_light](http://pan-yz.chaoxing.com/share/info/c74faa7e2618ecdc)
+- [00_03_camera](http://pan-yz.chaoxing.com/share/info/ebe6118e1449a61b)
+
 
 ## 2. Assignments
 使用Blender 2.9，建议使用个人电脑完成。
