@@ -26,6 +26,8 @@
 - [00_01_introduction](http://pan-yz.chaoxing.com/share/info/dc5968d8ed5cc29f)
 - [00_02_light](http://pan-yz.chaoxing.com/share/info/c74faa7e2618ecdc)
 - [00_03_camera](http://pan-yz.chaoxing.com/share/info/ebe6118e1449a61b)
+- [01_01_2d_Transformations](http://pan-yz.chaoxing.com/share/info/5104d084e1a06ad3)
+- [01_02_3d_Transformations](http://pan-yz.chaoxing.com/share/info/a08fa5722fe65ae0)
 
 
 ## 2. Assignments
