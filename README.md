@@ -23,11 +23,13 @@
   <!-- - [Modern OpenGL Guide](https://open.gl/), excellent! elegent!! -->
 
 ## 1. Course Notes
-- [00_01_introduction](http://pan-yz.chaoxing.com/share/info/dc5968d8ed5cc29f)
+- [00_01_introduction](http://pan-yz.chaoxing.com/share/info/dc5968d8ed5cc29f), assignment 1 out
 - [00_02_light](http://pan-yz.chaoxing.com/share/info/c74faa7e2618ecdc)
 - [00_03_camera](http://pan-yz.chaoxing.com/share/info/ebe6118e1449a61b)
 - [01_01_2d_Transformations](http://pan-yz.chaoxing.com/share/info/5104d084e1a06ad3)
-- [01_02_3d_Transformations](http://pan-yz.chaoxing.com/share/info/a08fa5722fe65ae0)
+- [01_02_3d_Transformations](http://pan-yz.chaoxing.com/share/info/a08fa5722fe65ae0), assignment 2 out
+- [01_03_viewing_3d_to_2d](http://pan-yz.chaoxing.com/share/info/e116e246237394d0)
+- [02_01_rasterization-device-triangle](http://pan-yz.chaoxing.com/share/info/13e13623fe1ab681)
 
 
 ## 2. Assignments
