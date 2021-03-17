@@ -49,7 +49,7 @@
 - ... 
 - [CS180 / CS280: Introduction to Computer Graphics @ UCSBb by Linqi yan](https://sites.cs.ucsb.edu/~lingqi/teaching/cs180.html)
 - [Introduction to Computer Graphics @ Cornell by Steve Marschner](http://www.cs.cornell.edu/courses/cs4620/2018fa/): good homework
-- [COMPUTER GRAPHICS @ CMU by Keenan Crane, Nacy Pollard]()
+- [COMPUTER GRAPHICS @ CMU by Keenan Crane, Nacy Pollard](http://15462.courses.cs.cmu.edu/spring2021/)
 - [CS 1230 Introduction to Computer Graphics @ Brown]()
 
 <!-- ### Others
