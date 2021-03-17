@@ -51,6 +51,7 @@
 - [Introduction to Computer Graphics @ Cornell by Steve Marschner](http://www.cs.cornell.edu/courses/cs4620/2018fa/): good homework
 - [COMPUTER GRAPHICS @ CMU by Keenan Crane, Nacy Pollard](http://15462.courses.cs.cmu.edu/spring2021/)
 - [CS 1230 Introduction to Computer Graphics @ Brown]()
+- [Computer Graphics - Fall 2020 @ jhu by Misha](https://www.cs.jhu.edu/~misha/Fall20/)
 
 <!-- ### Others
 - [tutorial, GL]: <a href="http://learnopengl.com">Learn OpenGL</a> (fundamental OpenGL tutorials and notes, practical techniques); <a href="https://learnopengl-cn.github.io">中文网站。</a>使用了GLFW，而不是GLUT
