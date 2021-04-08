@@ -33,7 +33,7 @@
 
 
 ## 2. Assignments
-使用Blender 2.9，建议使用个人电脑完成。
+使用Blender 2.9.0 (不要使用其他版本，包括更新的版本)，建议使用个人电脑完成。
 [Assignments 1-8](http://web.stanford.edu/class/cs148/assignments.html)
 <!-- - [Rules & Setup](assignments/)
 - [Assignment 1: Hello World (Mesh display, Connected Components & Subdivision)](assignments/assignment_1), deadline: TBD
@@ -49,7 +49,7 @@
 - ... 
 - [CS180 / CS280: Introduction to Computer Graphics @ UCSBb by Linqi yan](https://sites.cs.ucsb.edu/~lingqi/teaching/cs180.html)
 - [Introduction to Computer Graphics @ Cornell by Steve Marschner](http://www.cs.cornell.edu/courses/cs4620/2018fa/): good homework
-- [COMPUTER GRAPHICS @ CMU by Keenan Crane, Nacy Pollard](http://15462.courses.cs.cmu.edu/spring2021/)
+- [COMPUTER GRAPHICS @ CMU by Keenan Crane, Nacy Pollard](http://15462.courses.cs.cmu.edu/fall2020/): **has youtube**
 - [CS 1230 Introduction to Computer Graphics @ Brown]()
 - [Computer Graphics - Fall 2020 @ jhu by Misha](https://www.cs.jhu.edu/~misha/Fall20/)
 
