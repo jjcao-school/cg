@@ -23,17 +23,52 @@
   <!-- - [Modern OpenGL Guide](https://open.gl/), excellent! elegent!! -->
 
 ## 1. Course Notes
+### 1.1 Introduction & transformation
 - [00_01_introduction](http://pan-yz.chaoxing.com/share/info/dc5968d8ed5cc29f), assignment 1 out
 - [00_02_light](http://pan-yz.chaoxing.com/share/info/c74faa7e2618ecdc), reading: [人眼亮度感知的非线性与gamma矫正](https://www.zhihu.com/question/27467127)
 - [00_03_camera](http://pan-yz.chaoxing.com/share/info/ebe6118e1449a61b)
 - [01_01_2d_Transformations](http://pan-yz.chaoxing.com/share/info/5104d084e1a06ad3)
 - [01_02_3d_Transformations](http://pan-yz.chaoxing.com/share/info/a08fa5722fe65ae0), assignment 2 out
-- [01_03_viewing_3d_to_2d](http://pan-yz.chaoxing.com/share/info/e116e246237394d0)
+- [01_03_viewing_3d_to_2d / viewing transformation](http://pan-yz.chaoxing.com/share/info/e116e246237394d0)
+- Review
+  
+### 1.2 Ray tracing
 - [02_01_rasterization-device-triangle](http://pan-yz.chaoxing.com/share/info/13e13623fe1ab681)
+- ray tracing
+- optics &nshading
+- Monte Carlo Path Tracing
+- Camera models
+- Materials
+- Ray tracing accelerating
+- Adbanced Topics in Rendering
+- Review
 
+### 1.3 Pipeline & Texture
+- Graphics pipeline & Shader
+- Texture mapping
+
+### 1.4 Geometry
+- Representation
+- Mesh
+- implicit <=> explicit representation
+- Digital geometry processing
+- Spline
+- Review
+
+### 1.5 Animation
+- Space deformation
+- Surface deformation
+
+### 1.6 Rasterization
+- Sampling & Antialiasing
+- Quantization & Dithering
+- Rasterize lines & circles
+- Review
 
 ## 2. Assignments
 使用Blender 2.9.0 (不要使用其他版本，包括更新的版本)，建议使用个人电脑完成。
+For finishing the assignments quickly, learn [Python/NumPy Review I](homework/NumpyTutorial_Blank.ipynb) first. 
+
 [Assignments 1-8](http://web.stanford.edu/class/cs148/assignments.html)
 <!-- - [Rules & Setup](assignments/)
 - [Assignment 1: Hello World (Mesh display, Connected Components & Subdivision)](assignments/assignment_1), deadline: TBD
