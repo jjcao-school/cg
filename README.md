@@ -1,6 +1,9 @@
-# Computer Graphics - 2021 (DLUT)
+# Computer Graphics - 2022 (DLUT)
 ## 0. Introduction
-授课32学时（上机24学时）.内容涵盖光栅化rasterization和光线追踪等渲染算法，3D几何建模的数学概念和算法，计算机动画算法，应用为主，理论为辅，大家需要多动手实验，积极解决实际问题。通过这门课程的学习，你将会学习到计算机视觉和计算机图形学的基本知识，学习和掌握一定的编程技能。
+授课32学时（上机24学时）.
+内容涵盖光栅化rasterization和光线追踪等渲染算法，3D几何建模的数学概念和算法，计算机仿真/动画算法，深度学习与图形学。
+应用为主，理论为辅，大家需要多动手实验，积极解决实际问题。
+通过这门课程的学习，你将会了解计算机图形学的基本知识，掌握一定的CG操作和编程技能。从2022年开始，增加深度学习部分的内容，为下一步科研做好实战准备。
 
 <!-- - 目标
     By the end of the course, the student must be able to:
@@ -16,8 +19,9 @@
 <!-- - Prerequisites: linear algebra, C/C++ programming, and Data Structures -->
 
 - Course Instructor: [Junjie Cao](http://jjcao.github.io/); Email: jjcao at dlut.edu.cn; 
-- Lectures: Tuesday (13:30 - 15:05) & Friday (08:00 - 09:35) at 综合教学2号楼 A301. 上机时间待定！！！
-- Textbooks: 
+- Lectures: Wednesday (13:30 - 15:05) & Monday (15:35 - 17:10) at 1馆1-103. 上机时间待定！！！
+- 
+- Textbooks:其实不需要 
   - [FCG4]: [Fundamentals of Computer Graphics, 4th Edition, 2016.](http://www.cs.cornell.edu/courses/cs4620/2014fa/index.shtml), has slides. 
   - [Introduction to Computer Graphics v1.2 2018](http://math.hws.edu/graphicsbook/) by David J. Eck, Free online, with live, interactive demos with webgl.
   <!-- - [Modern OpenGL Guide](https://open.gl/), excellent! elegent!! -->
@@ -66,10 +70,9 @@
 - Review
 
 ## 2. Assignments
-使用Blender 2.9.0 (不要使用其他版本，包括更新的版本)，建议使用个人电脑完成。
-For finishing the assignments quickly, learn [Python/NumPy Review I](homework/NumpyTutorial_Blank.ipynb) first. 
-
-[Assignments 1-8](http://web.stanford.edu/class/cs148/assignments.html)
+- 使用[Blender 2.93.4](https://www.blender.org/) (不要使用其他版本，包括更新的版本)，建议使用个人电脑完成。
+- For finishing the assignments quickly, learn [Python/NumPy Review I](homework/NumpyTutorial_Blank.ipynb) first. 
+- [Assignments 1-8](http://web.stanford.edu/class/cs148/assignments.html)
 <!-- - [Rules & Setup](assignments/)
 - [Assignment 1: Hello World (Mesh display, Connected Components & Subdivision)](assignments/assignment_1), deadline: TBD
 - [Assignment 3: ](), deadline: TBD -->
@@ -78,6 +81,11 @@ For finishing the assignments quickly, learn [Python/NumPy Review I](homework/Nu
 - [什么是计算机图形学？](http://staff.ustc.edu.cn/~lgliu/Resources/CG/What_is_CG.htm)
 
 ## 4. Resources
+### 中文相关课程推荐
+- GAMES 101: 现代计算机图形学入门（闫令琪） （2020年2月-5月）（主页，B站视频）
+- GAMES 102 几何建模与处理基础（刘利刚）（2020年10月-2021年1月）主页，B站视频）
+- GAMES 103: 基于物理的计算机动画入门（王华民）（2021年11月-2022年1月）（主页，B站视频）
+- GAMES 201: 高级物理引擎实战指南2020（胡渊鸣） （2020年6月-8月）（主页，B站视频）
 ### References:
 - [Graduate Computer Graphics, CSCI-GA 2270-001 Fall 2020, Daniele Panozzo](https://github.com/danielepanozzo/cg)
 - [CS 148 Introduction to Computer Graphics and Imaging @ Stanford by Ron Fedkiw](http://web.stanford.edu/class/cs148)
