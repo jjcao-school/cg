@@ -28,7 +28,7 @@
 
 ## 1. Course Notes
 ### 1.1 Introduction & transformation
-- [00_01_introduction](http://pan-yz.chaoxing.com/share/info/dc5968d8ed5cc29f), assignment 1 out
+- [00_01_introduction](http://pan-yz.chaoxing.com/share/info/dc5968d8ed5cc29f), [assignment 1](https://tricky-shadow-baf.notion.site/HW1-Blender-Basics-c5ddd52f7a1d48bdad8d77bd319aef8e) out
 - [00_02_light](http://pan-yz.chaoxing.com/share/info/c74faa7e2618ecdc), reading: [人眼亮度感知的非线性与gamma矫正](https://www.zhihu.com/question/27467127)
 - [00_03_camera](http://pan-yz.chaoxing.com/share/info/ebe6118e1449a61b)
 - [01_01_2d_Transformations](http://pan-yz.chaoxing.com/share/info/5104d084e1a06ad3)
@@ -59,18 +59,27 @@
 - Spline
 - Review
 
-### 1.5 Animation
+### 1.5 AI for CG (SIGGRAPH 2019)
+- Introduction
+- Neural Networks
+- Suervised Learning
+- Unsupervised Learning
+
+### 1.6 Animation
+- Simulation
+  - Physics & Taichi
+  - Mass-spring & SPH
 - Space deformation
 - Surface deformation
 
-### 1.6 Rasterization
+### 1.7 Rasterization
 - Sampling & Antialiasing
 - Quantization & Dithering
 - Rasterize lines & circles
 - Review
 
 ## 2. Assignments
-- 使用[Blender 2.93.4](https://www.blender.org/) (不要使用其他版本，包括更新的版本)，建议使用个人电脑完成。
+- 使用[Blender 2.93.4](https://www.blender.org/) (不要使用其他版本，包括更新的版本)，建议使用个人电脑完成。（以前还用过2.90.1）
 - For finishing the assignments quickly, learn [Python/NumPy Review I](homework/NumpyTutorial_Blank.ipynb) first. 
 - [Assignments 1-8](http://web.stanford.edu/class/cs148/assignments.html)
 <!-- - [Rules & Setup](assignments/)
@@ -86,7 +95,7 @@
 - GAMES 102 几何建模与处理基础（刘利刚）（2020年10月-2021年1月）主页，B站视频）
 - GAMES 103: 基于物理的计算机动画入门（王华民）（2021年11月-2022年1月）（主页，B站视频）
 - GAMES 201: 高级物理引擎实战指南2020（胡渊鸣） （2020年6月-8月）（主页，B站视频）
-### References:
+### Other Courses:
 - [Graduate Computer Graphics, CSCI-GA 2270-001 Fall 2020, Daniele Panozzo](https://github.com/danielepanozzo/cg)
 - [CS 148 Introduction to Computer Graphics and Imaging @ Stanford by Ron Fedkiw](http://web.stanford.edu/class/cs148)
 - ... 
@@ -96,6 +105,10 @@
 - [CS 1230 Introduction to Computer Graphics @ Brown]()
 - [Computer Graphics - Fall 2020 @ jhu by Misha](https://www.cs.jhu.edu/~misha/Fall20/)
 
+### Deep Learning for Computer Graphics
+
+1. [CreativeAI: Deep Learning for Computer Graphics](http://geometry.cs.ucl.ac.uk/workshops/creativeai/), sig19 course, has slides and codes on github
+2. [http://cs348i.stanford.edu/](http://cs348i.stanford.edu/) 2021 Fall, lists related papers organized by CG topics.
 <!-- ### Others
 - [tutorial, GL]: <a href="http://learnopengl.com">Learn OpenGL</a> (fundamental OpenGL tutorials and notes, practical techniques); <a href="https://learnopengl-cn.github.io">中文网站。</a>使用了GLFW，而不是GLUT
 - [tutorial, GL]: <a href="http://ogldev.atspace.co.uk/index.html">Modern OpenGL Tutorials</a>, good explanation and code; <a href="https://blog.csdn.net/column/details/13062.html">中文网站。</a> 使用了FreeGLUT和GLEW，但是前面的code中，FreeGLUT的函数和glut的一样，可以照用。
