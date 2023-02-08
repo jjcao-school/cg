@@ -1,4 +1,4 @@
-# Computer Graphics - 2022 (DLUT)
+# Computer Graphics - 2023 (DLUT)
 ## 0. Introduction
 授课32学时（上机24学时）.
 内容涵盖光栅化rasterization和光线追踪等渲染算法，3D几何建模的数学概念和算法，计算机仿真/动画算法，深度学习与图形学。
