@@ -1,4 +1,4 @@
-# Computer Graphics - 2023 (DLUT)
+# Computer Graphics - 2026 (DLUT)
 ## 0. Introduction
 授课32学时（上机24学时）.
 内容涵盖3D Transformation, Image Processing, 渲染(光栅化rasterization和光线追踪)，3D几何建模，计算机仿真动画，以及人工智能与图形学。
