@@ -1,9 +1,20 @@
 # Computer Graphics - 2026 (DLUT)
 ## 0. Introduction
-授课32学时（上机24学时）.
+- 授课32学时（上机24学时）.
 内容涵盖3D Transformation, Image Processing, 渲染(光栅化rasterization和光线追踪)，3D几何建模，计算机仿真动画，以及人工智能与图形学。
 应用为主，理论为辅，大家需要多动手实验，积极解决实际问题。
-通过这门课程的学习，你将会了解计算机图形学的基本知识，掌握一定的CG操作和编程技能。Note that C++ is not required; the assignments can be completed using JavaScript and WebGL.
+Note that C++ is not required; the assignments can be completed using JavaScript and WebGL.
+
+- 通过这门课程的学习，你将会了解计算机图形学的基本知识，掌握一定的CG操作和编程技能。具体如下：
+  - Read, write, and manipulate digital images,
+  - 通过坐标变换组织3D scenes and objects,
+  - Render 3D objects using textures, lighting, shadows, and reflections,
+  - Explain the fundamental concepts behind computer animation and physics-based simulations in graphics,
+  - Develop WebGL applications that can display 3D models on web pages.
+<!-- Develop interactive graphics software using the GPU rendering pipeline,
+Describe sampling and signal processing operations used for image synthesis and representation,
+Design software with typical representations of curves and surfaces used in computer graphics,
+-->
 
 - Course Instructor: [Junjie Cao](http://jjcao.github.io/); Email: jjcao at dlut.edu.cn; 
 - Lectures: 周二 (15:35 - 17:10) & 周四 (13:30 - 15:05) at 第一教学馆 1-316. 上机时间待定！！！
