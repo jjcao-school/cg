@@ -17,7 +17,8 @@ Design software with typical representations of curves and surfaces used in comp
 -->
 
 - Course Instructor: [Junjie Cao](http://jjcao.github.io/); Email: jjcao at dlut.edu.cn; 
-- Lectures: 周二 (15:35 - 17:10) & 周四 (13:30 - 15:05) at 第一教学馆 1-316. 上机时间待定！！！
+- Lectures: 周二 (15:35 - 17:10) & 周四 (13:30 - 15:05) at 第一教学馆 1-316. 
+- 上机时间：2-7周的周一晚18点--21点，综合教学1号楼416.
 - Textbooks: This course will not follow any textbook. You can find some from the course website I recommended.  
 
 
